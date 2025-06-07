@@ -1,7 +1,8 @@
-transformers==4.48.1
-tensorboard==2.16.2
-pandas==2.2.3
-torch==2.3.0
+transformers
+tensorboard
+pandas
+torch
+--find-links https://data.dgl.ai/wheels/torch-2.6/cu124/repo.html
 dgl
-torchdata==0.9.0
-scikit-learn==1.6.1
+torchdata
+scikit-learn
